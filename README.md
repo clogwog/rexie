@@ -7,5 +7,5 @@ A clock with the Chrome Dino in the background
 
 SLYT:
 
-[![No Wifi clock](https://www.youtube.com/watch?v=eb3I8qLKDIM/0.jpg)](https://www.youtube.com/watch?v=eb3I8qLKDIM)
+[![No Wifi clock](https://img.youtube.com/vi/eb3I8qLKDIM/mqdefault.jpg)](https://www.youtube.com/watch?v=eb3I8qLKDIM)
 
