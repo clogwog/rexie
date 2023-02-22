@@ -1,13 +1,11 @@
-# dancemonkey
+# rexie
 
-The Gif that gave me the idea: ![brent](./brent.gif)
+A clock with the Chrome Dino in the background
 
 
-David Brent from the office doing his little dance with the time
-
-![Dance monkey...dance.](./david_brent_monkey_dance.gif)
+![The Lonenely T-Rex](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Chromium_T-Rex-error-offline.png/80px-Chromium_T-Rex-error-offline.png)
 
 SLYT:
 
-[![Dance monkey, dance](https://img.youtube.com/vi/pXQ9XJF39CE/0.jpg)](https://www.youtube.com/watch?v=pXQ9XJF39CE)
+[![No Wifi clock](https://www.youtube.com/watch?v=eb3I8qLKDIM/0.jpg)](https://www.youtube.com/watch?v=eb3I8qLKDIM)
 
