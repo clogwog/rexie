@@ -1,5 +1,7 @@
 # rexie
 
+Demo: https://clogwog.net/projects/panel-player/?project=rexie
+
 A clock with the Chrome Dino in the background
 
 
